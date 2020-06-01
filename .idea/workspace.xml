@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8afbf703-b2ed-48ab-9254-b0739571c537" name="Default" comment="spring framework">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/BeanDefinition.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/BeanDefinitionReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/ClassPathResource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/PropertyValue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/Resource.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/RuntimeBeanReference.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/TypedStringValue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinationDocumentReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinitionReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/AbstractBeanFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/BeanFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultListableBeanFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/XmlBeanFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/utils/DocumentReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/utils/ReflectUtils.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="8afbf703-b2ed-48ab-9254-b0739571c537" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring01/target/" />
@@ -524,7 +500,7 @@
       <workItem from="1590743920177" duration="55000" />
       <workItem from="1590744015959" duration="687000" />
       <workItem from="1590744746672" duration="2849000" />
-      <workItem from="1590975023188" duration="3294000" />
+      <workItem from="1590975023188" duration="3310000" />
     </task>
     <task id="LOCAL-00001" summary="spring framework">
       <created>1591007513102</created>
@@ -533,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591007513103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="spring framework">
+      <created>1591007685847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591007685847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -545,7 +528,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7974000" />
+    <option name="totallyTimeSpent" value="7990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
