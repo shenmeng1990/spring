@@ -1,0 +1,19 @@
+<beans>
+	<bean id="student" class="com.alibaba.spring.model.Student">
+		<!-- String类型 -->
+		<property name="name" value="xiaozhi"></property>
+		<!-- 引用类型 -->
+		<property name="course" ref="course"></property>
+	</bean>
+
+	<!-- 该类有一个初始化方法 -->
+	<bean id="course" class="com.alibaba.spring.model.Course"
+		init-method="init">
+		<!-- String类型 -->
+		<property name="name" value="spring"></property>
+		<!-- Integer类型 -->
+		<property name="age" value="18"></property>
+
+	</bean>
+
+</beans>
