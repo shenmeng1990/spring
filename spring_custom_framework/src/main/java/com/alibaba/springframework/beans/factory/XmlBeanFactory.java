@@ -7,7 +7,7 @@ import com.alibaba.springframework.beans.config.XmlBeanDefinitionReader;
 /**
  * 只需要实现对xml配置文件的加载以及BeanDefinition的注册即可，它不需要实现getBean方法
  * 
- * @author 灭霸詹
+ * @author shenmeng
  *
  */
 public class XmlBeanFactory extends DefaultListableBeanFactory {

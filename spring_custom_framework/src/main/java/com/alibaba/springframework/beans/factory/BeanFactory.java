@@ -4,7 +4,7 @@ import com.alibaba.springframework.beans.config.BeanDefinition;
 
 /**
  * 只需要提供对bean的获取
- * @author 灭霸詹
+ * @author shenmeng
  *
  */
 public interface BeanFactory {

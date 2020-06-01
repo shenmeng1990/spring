@@ -4,7 +4,7 @@ import java.io.InputStream;
 
 /**
  * 提供资源的访问
- * @author 灭霸詹
+ * @author shenmeng
  *
  */
 public interface Resource {

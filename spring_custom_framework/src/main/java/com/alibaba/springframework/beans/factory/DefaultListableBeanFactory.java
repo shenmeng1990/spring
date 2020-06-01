@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * spring容器的核心实现
  * 
- * @author 灭霸詹
+ * @author shenmeng
  *
  */
 public class DefaultListableBeanFactory extends AbstractBeanFactory {
