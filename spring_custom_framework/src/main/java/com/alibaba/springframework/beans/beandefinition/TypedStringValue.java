@@ -1,4 +1,4 @@
-package com.alibaba.springframework.beans.config;
+package com.alibaba.springframework.beans.beandefinition;
 
 public class TypedStringValue {
 	
