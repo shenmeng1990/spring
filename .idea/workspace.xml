@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8afbf703-b2ed-48ab-9254-b0739571c537" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/BeanDefinition.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/BeanDefinition.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/BeanDefinitionReader.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/BeanDefinitionReader.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/PropertyValue.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/PropertyValue.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/RuntimeBeanReference.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinationDocumentReader.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinitionDocumentReader.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinitionReader.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/config/XmlBeanDefinitionReader.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/AbstractBeanFactory.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/AbstractBeanFactory.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/BeanFactory.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/BeanFactory.java" />
-      <change beforePath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultListableBeanFactory.java" afterPath="$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultListableBeanFactory.java" />
     </list>
     <ignored path="$PROJECT_DIR$/spring01/target/" />
     <ignored path="$PROJECT_DIR$/spring_custom_framework/target/" />
@@ -27,7 +18,7 @@
       <file leaf-file-name="AbstractBeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/AbstractBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
+            <state relative-caret-position="630">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
@@ -47,7 +38,7 @@
       <file leaf-file-name="DefaultSingletonRegister.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultSingletonRegister.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
+            <state relative-caret-position="70">
               <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,7 +50,7 @@
       <file leaf-file-name="DefaultListableBeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultListableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1097">
+            <state relative-caret-position="1890">
               <caret line="65" column="64" lean-forward="false" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
               <folding />
             </state>
@@ -81,7 +72,7 @@
       <file leaf-file-name="BeanFactoryAware.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/BeanFactoryAware.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="350">
               <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
@@ -91,7 +82,7 @@
       <file leaf-file-name="RuntimeBeanReference.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/RuntimeBeanReference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
+            <state relative-caret-position="70">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
@@ -101,7 +92,7 @@
       <file leaf-file-name="TypedStringValue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/TypedStringValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
+            <state relative-caret-position="70">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
@@ -231,8 +222,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -361,6 +350,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -531,7 +522,8 @@
       <workItem from="1590975023188" duration="3635000" />
       <workItem from="1591008057119" duration="18000" />
       <workItem from="1591008245152" duration="261000" />
-      <workItem from="1591060430663" duration="4499000" />
+      <workItem from="1591060430663" duration="4647000" />
+      <workItem from="1591090771629" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="spring framework">
       <created>1591007513102</created>
@@ -586,7 +578,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13093000" />
+    <option name="totallyTimeSpent" value="13258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,10 +591,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -610,10 +602,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68421054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26560587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18482251" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25809935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26241902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -625,6 +617,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -731,14 +724,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#857#858#0" expanded="false" />
-            <element signature="e#875#876#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#958#959#0" expanded="false" />
-            <element signature="e#1027#1028#0" expanded="false" />
-            <element signature="e#1046#1047#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -827,14 +813,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#857#858#0" expanded="false" />
-            <element signature="e#875#876#0" expanded="false" />
-            <element signature="e#931#932#0" expanded="false" />
-            <element signature="e#958#959#0" expanded="false" />
-            <element signature="e#1027#1028#0" expanded="false" />
-            <element signature="e#1046#1047#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,7 +1031,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/RuntimeBeanReference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
+        <state relative-caret-position="70">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
@@ -1060,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/beandefinition/TypedStringValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
+        <state relative-caret-position="70">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
@@ -1084,7 +1063,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultSingletonRegister.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
+        <state relative-caret-position="70">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1094,7 +1073,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/AbstractBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="630">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
@@ -1102,7 +1081,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/BeanFactoryAware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="350">
           <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
@@ -1110,7 +1089,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_custom_framework/src/main/java/com/alibaba/springframework/beans/factory/DefaultListableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1097">
+        <state relative-caret-position="1890">
           <caret line="65" column="64" lean-forward="false" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
           <folding />
         </state>
