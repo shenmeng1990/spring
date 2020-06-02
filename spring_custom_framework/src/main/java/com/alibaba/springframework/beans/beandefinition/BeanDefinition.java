@@ -1,4 +1,4 @@
-package com.alibaba.springframework.beans.config;
+package com.alibaba.springframework.beans.beandefinition;
 
 import java.util.ArrayList;
 import java.util.List;

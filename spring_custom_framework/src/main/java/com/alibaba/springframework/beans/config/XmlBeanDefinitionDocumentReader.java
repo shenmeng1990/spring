@@ -2,18 +2,19 @@ package com.alibaba.springframework.beans.config;
 
 import java.util.List;
 
+import com.alibaba.springframework.beans.beandefinition.*;
 import com.alibaba.springframework.beans.factory.BeanFactory;
 import com.alibaba.springframework.beans.utils.ReflectUtils;
 import org.dom4j.Element;
 
 
 
-public class XmlBeanDefinationDocumentReader {
+public class XmlBeanDefinitionDocumentReader {
 
-	private BeanFactory beanFactory;
+	private BeanDefinitionRegistry beanDefinitionRegistry;
 
-	public XmlBeanDefinationDocumentReader(BeanFactory beanFactory) {
-		this.beanFactory = beanFactory;
+	public XmlBeanDefinitionDocumentReader(BeanDefinitionRegistry beanDefinitionRegistry) {
+		this.beanDefinitionRegistry = beanDefinitionRegistry;
 	}
 
 	@SuppressWarnings("unchecked")
@@ -63,16 +64,16 @@ public class XmlBeanDefinationDocumentReader {
 			String beanName = id == null ? name : id;
 			beanName = beanName == null ? clazzType.getSimpleName() : beanName;
 			// 创建BeanDefinition对象
-			BeanDefinition beanDefination = new BeanDefinition(clazzName, beanName);
-			beanDefination.setInitMethod(initMethod);
+			BeanDefinition beanDefinition = new BeanDefinition(clazzName, beanName);
+			beanDefinition.setInitMethod(initMethod);
 			// 获取property子标签集合
 			List<Element> propertyElements = beanElement.elements();
 			for (Element propertyElement : propertyElements) {
-				parsePropertyElement(beanDefination, propertyElement);
+				parsePropertyElement(beanDefinition, propertyElement);
 			}
 
 			// 注册BeanDefinition信息
-			registerBeanDefinition(beanName, beanDefination);
+			this.beanDefinitionRegistry.registerBeanDefinition(beanName, beanDefinition);
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
@@ -116,10 +117,6 @@ public class XmlBeanDefinationDocumentReader {
 		} else {
 			return;
 		}
-	}
-
-	private void registerBeanDefinition(String beanName, BeanDefinition beanDefinition) {
-		beanFactory.registerBeanDefinition(beanName, beanDefinition);
 	}
 
 }

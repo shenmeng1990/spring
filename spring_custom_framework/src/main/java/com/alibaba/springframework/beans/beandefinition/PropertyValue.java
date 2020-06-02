@@ -1,4 +1,4 @@
-package com.alibaba.springframework.beans.config;
+package com.alibaba.springframework.beans.beandefinition;
 
 /**
  * PropertyValue就封装着一个property标签的信息
